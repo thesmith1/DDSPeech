@@ -5,10 +5,10 @@
 
 |     Clip       |   Audio  |  Download Link  |
 |----------------|----------|-----------------|
-| Original Audio |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
-| WaveGlow (no control possible) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
-| Our Model (original pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
-| Our Model (pitch shift) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
-| Our Model (constant pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
-| Our Model (ramp up added to original pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link)|
-| Our Model (original pitch modulated with sinusoid) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/test_repo/main/audio/LJ001-0001.wav" type="audio/pcm"></audio>| [Download](link) |
+| Original Audio |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/original.wav" type="audio/pcm"></audio>| [Download](link) |
+| WaveGlow (no control possible) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/waveglow.wav" type="audio/pcm"></audio>| [Download](link) |
+| Our Model (original pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/ddspeech.wav" type="audio/pcm"></audio>| [Download](link) |
+| Our Model (pitch shift) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/ddspeech_ps+3.wav" type="audio/pcm"></audio>| [Download](link) |
+| Our Model (constant pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/ddspeech_LJ050-0052_constant.wav" type="audio/pcm"></audio>| [Download](link) |
+| Our Model (ramp up added to original pitch) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/ddspeech_LJ050-0052_ramp_up.wav" type="audio/pcm"></audio>| [Download](link)|
+| Our Model (original pitch modulated with sinusoid) |<audio controls="" preload="auto" src="https://raw.githubusercontent.com/thesmith1/ddspeech/gh-pages/audio/clip1/ddspeech_LJ050-0052_sin.wav" type="audio/pcm"></audio>| [Download](link) |
