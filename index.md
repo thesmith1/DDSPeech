@@ -1,6 +1,9 @@
-## The content on this page will be published in a few days
+## Speech Synthesis and Control Using Differentiable DSP
 
-### !! The following is a test, the official content will be released in a few days
+### Giorgio Fabbro, Vladimir Golkov, Thomas Kemp, Daniel Cremers
+
+The paper will soon be available on [arXiv](https://arxiv.org/).
+
 ### Clip 1
 
 |     Clip       |   Audio  |  Download Link  |
